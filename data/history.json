@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "time": "2026-11-21T12:58:11Z",
+    "sites": {
+      "Lumira": {
+        "code": 200,
+        "ms": 497,
+        "up": true
+      },
+      "Link Checker": {
+        "code": 200,
+        "ms": 123,
+        "up": true
+      },
+      "Site Speed": {
+        "code": 200,
+        "ms": 138,
+        "up": true
+      },
+      "Link Preview": {
+        "code": 200,
+        "ms": 84,
+        "up": true
+      }
+    }
+  }
+]
