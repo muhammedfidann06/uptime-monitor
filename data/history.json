@@ -123,5 +123,30 @@
         "up": true
       }
     }
+  },
+  {
+    "time": "2026-11-22T21:18:29Z",
+    "sites": {
+      "Lumira": {
+        "code": 200,
+        "ms": 385,
+        "up": true
+      },
+      "Link Checker": {
+        "code": 200,
+        "ms": 76,
+        "up": true
+      },
+      "Site Speed": {
+        "code": 200,
+        "ms": 67,
+        "up": true
+      },
+      "Link Preview": {
+        "code": 200,
+        "ms": 400,
+        "up": true
+      }
+    }
   }
 ]
